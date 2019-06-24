@@ -2,7 +2,7 @@
 
 This is a small project for Artificial Intelligence course of 6th sem B.Tech. 
 
-This program(code) is a basic Genetic Algorithm implemetation. 
+This program(code) is a basic implemetation of Genetic Algorithm.
 
 If you want to run the code visit [here](https://sandbox.cs50.io/57d350a3-3265-46cc-a597-c2f738785e7e)
 
